@@ -48,10 +48,15 @@ flowchart LR
 | 8 | [Game ideas](docs/08_game_ideas.md) | Original games designed for this console, with a launch title in detail |
 | 9 | [Parts list](docs/09_parts_list.md) | Bill of materials with rough UK prices |
 | 10 | [Build plan](docs/10_build_plan.md) | Stages from "playing on the desk" to "finished handheld" |
+| 11 | [Selling it: the cost-down version](docs/11_selling_on_a_budget.md) | About £12 of parts per console: AA cells, a bare screen, a carrier PCB; price, profit and the rules to check |
 
 ## Status
 
 Design notes only. Nothing has been bought or built yet.
+
+The plan is to sell a batch. The version for sale runs on two AA rechargeable cells
+and has a carrier PCB and a printed shell, for about £12 of parts. See
+[Selling it](docs/11_selling_on_a_budget.md).
 
 ## Licence
 
