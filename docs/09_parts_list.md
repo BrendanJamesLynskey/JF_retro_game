@@ -53,7 +53,7 @@ Display Pack: **about £75**.
 | Part | Rough price | For |
 |---|---|---|
 | LIS3DH accelerometer breakout | £5 | Tilt games |
-| Second complete console (no Display Pack) | ~£55–60 | Link-cable games (the main reason to build two) |
+| Second complete console (no Display Pack; shares the link cable and leftover wire) | ~£65–70 | Link-cable games (the main reason to build two) |
 | USB power meter (inline) | £8 | Measuring battery life and charging |
 | Cheap USB gamepad to harvest | £5 | Silicone button membrane |
 
