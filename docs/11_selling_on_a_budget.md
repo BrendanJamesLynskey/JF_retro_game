@@ -81,7 +81,7 @@ given for the everyday parts.
 | Carrier PCB | [JLCPCB](https://jlcpcb.com/) (upload the KiCad Gerbers) |
 | 6×6 mm tactile switches | [LCSC C381012](https://www.lcsc.com/product-detail/C381012.html) (5 mm tall) or [C381017](https://www.lcsc.com/product-detail/C381017.html) (9.5 mm tall, for taller caps) |
 | 2 × AA PCB holder | [LCSC C5290182](https://www.lcsc.com/product-detail/Battery-Connectors_MYOUNG-BH-AA-B5BA015_C5290182.html) (SMT; check it's 2-cell) or [LCSC search "2AA holder"](https://www.lcsc.com/search?q=2AA%20battery%20holder) |
-| Slide switch | [LCSC search "SS12D00"](https://www.lcsc.com/search?q=SS12D00) |
+| On/off switch | Easiest: a **2 × AA battery box with a built-in switch and lid** ([AliExpress search](https://www.aliexpress.com/w/wholesale-2-aa-battery-box-switch.html)), which replaces both the PCB holder and the slide switch. Otherwise any small SPDT slide switch ([LCSC search "MSK-12C02"](https://www.lcsc.com/search?q=MSK-12C02), ["SK12D07"](https://www.lcsc.com/search?q=SK12D07)) or an 8×8 mm latching push switch ([AliExpress search](https://www.aliexpress.com/w/wholesale-8x8-self-locking-switch.html)) |
 | S8050 transistor | [LCSC C8327](https://www.lcsc.com/product-detail/C8327.html) |
 | Speaker 8 Ω | [AliExpress search "20mm 8 ohm speaker"](https://www.aliexpress.com/w/wholesale-20mm-8-ohm-speaker.html), or UK: [Pi Hut 20×30 mm cavity speaker](https://thepihut.com/products/20-x-30mm-cavity-speaker-b-with-ph1-25-connector-8-2w) (louder, dearer) |
 | Resistors, capacitors, headers | LCSC, in the same order as the switches |
