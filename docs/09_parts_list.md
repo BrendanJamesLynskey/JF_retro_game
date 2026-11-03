@@ -1,18 +1,20 @@
 # 9. Parts list
 
-Prices are **rough UK prices** from memory (Pimoroni, The Pi Hut, Amazon, AliExpress)
-to give an idea of the total. Check current prices before ordering.
+Prices are **rough UK prices including VAT**, before postage. The Pico 2, Display Pack,
+LiPo SHIM and PAM8302 prices were checked against The Pi Hut listings on 2026-11-03;
+the rest are typical prices from UK hobby shops and Amazon. Check current prices
+before ordering.
 
 ## Build 1: playable on the desk, then on battery
 
 | Part | Qty | Rough price | Notes |
 |---|---|---|---|
-| Raspberry Pi Pico 2 + a pair of 20-pin male headers | 1 | £6 | Plain Pico 2, not the W |
-| Pimoroni Pico Display Pack 2.0 | 1 | £19 | 320×240 IPS, 4 buttons, RGB LED |
-| Pimoroni LiPo SHIM for Pico | 1 | £11 | Charger and power button |
-| LiPo cell, ~1200 mAh, protected, JST-PH | 1 | £9 | **Check polarity** |
+| Raspberry Pi Pico 2 + a pair of 20-pin male headers | 1 | £5.80 | Plain Pico 2, not the W |
+| Pimoroni Pico Display Pack 2.0 | 1 | £18.90 | 320×240 IPS, 4 buttons, RGB LED |
+| Pimoroni LiPo SHIM for Pico | 1 | £7.50 | Charger and power button |
+| LiPo cell, ~1200 mAh, protected, JST-PH | 1 | £10 | **Check polarity** |
 | USB cable for the Pico (micro-USB) | 1 | — | Probably already in a drawer |
-| **Build 1 total** | | **~£45** | |
+| **Build 1 total** | | **~£42** | |
 
 (The LiPo SHIM sits flat under the Pico and the header pins are soldered through
 both boards, so buy the Pico 2 without headers fitted and follow Pimoroni's fitting
@@ -28,7 +30,7 @@ back on the desk for development, and a bare screen goes in the case):
 | 2.0" 320×240 ST7789 IPS SPI module | 1 | £8 | Pick one with the TE pin broken out if possible |
 | 6×6 mm tactile switches (assorted heights) | 20 | £3 | D-pad, Start, Select, spares |
 | 12×12 mm tactile switches with round caps | 4 | £3 | A, B, spares |
-| PAM8302 mono amp breakout | 1 | £4 | |
+| PAM8302 mono amp breakout | 1 | £3.80 | |
 | 28 mm 8 Ω 0.5 W speaker | 1 | £2 | |
 | 10 mm coin vibration motor, 3 V | 2 | £2 | One spare |
 | 2N2222 transistors, 1N4148 diodes, 1 kΩ and 10 kΩ resistors, 10 nF caps | some | £3 | |
@@ -41,12 +43,17 @@ back on the desk for development, and a bare screen goes in the case):
 | PLA or PETG filament | ~80 g | £2 | Printed on the Ender-3 V2 Neo |
 | **Build 2 extra** | | **~£50** | |
 
+**One finished handheld: about £90–95**, made up of build 1 (~£42) plus build 2
+(~£50). The Display Pack stays on the desk as a development board, so the console in
+the case doesn't use it. To skip build 1 and go straight to the handheld, leave out the
+Display Pack: **about £75**.
+
 ## Optional extras
 
 | Part | Rough price | For |
 |---|---|---|
 | LIS3DH accelerometer breakout | £5 | Tilt games |
-| Second complete console | ~£65 | Link-cable games (the main reason to build two) |
+| Second complete console (no Display Pack) | ~£55–60 | Link-cable games (the main reason to build two) |
 | USB power meter (inline) | £8 | Measuring battery life and charging |
 | Cheap USB gamepad to harvest | £5 | Silicone button membrane |
 
