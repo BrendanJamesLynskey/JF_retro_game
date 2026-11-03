@@ -68,6 +68,33 @@ playing, before ordering a batch.
 | Optional: 2 × NiMH AA cells included | +£2.50 | |
 | Optional: link-cable socket (TRRS) | +£0.30 | Makes "buy two" a good sales line |
 
+### Where to buy
+
+Links found on 2026-11-03. AliExpress listings come and go, so search links are
+given for the everyday parts.
+
+| Part | Where |
+|---|---|
+| Raspberry Pi Pico (RP2040) | [The Pi Hut](https://thepihut.com/products/raspberry-pi-pico) |
+| 2.0" ST7789 IPS module, on a small PCB with pins (easiest) | [AliExpress 1005007404892390](https://www.aliexpress.com/item/1005007404892390.html) |
+| 2.0" ST7789 bare panel, 12-pin solder (cheapest, for the carrier PCB) | [AliExpress 1005009963466356](https://www.aliexpress.com/item/1005009963466356.html) |
+| Carrier PCB | [JLCPCB](https://jlcpcb.com/) (upload the KiCad Gerbers) |
+| 6×6 mm tactile switches | [LCSC C381012](https://www.lcsc.com/product-detail/C381012.html) (5 mm tall) or [C381017](https://www.lcsc.com/product-detail/C381017.html) (9.5 mm tall, for taller caps) |
+| 2 × AA PCB holder | [LCSC C5290182](https://www.lcsc.com/product-detail/Battery-Connectors_MYOUNG-BH-AA-B5BA015_C5290182.html) (SMT; check it's 2-cell) or [LCSC search "2AA holder"](https://www.lcsc.com/search?q=2AA%20battery%20holder) |
+| Slide switch | [LCSC search "SS12D00"](https://www.lcsc.com/search?q=SS12D00) |
+| S8050 transistor | [LCSC C8327](https://www.lcsc.com/product-detail/C8327.html) |
+| Speaker 8 Ω | [AliExpress search "20mm 8 ohm speaker"](https://www.aliexpress.com/w/wholesale-20mm-8-ohm-speaker.html), or UK: [Pi Hut 20×30 mm cavity speaker](https://thepihut.com/products/20-x-30mm-cavity-speaker-b-with-ph1-25-connector-8-2w) (louder, dearer) |
+| Resistors, capacitors, headers | LCSC, in the same order as the switches |
+| Coin vibration motor (optional) | [AliExpress search "coin vibration motor 1027"](https://www.aliexpress.com/w/wholesale-coin-vibration-motor-1027.html) |
+| 3.5 mm TRRS socket (optional) | [LCSC search "PJ-320A"](https://www.lcsc.com/search?q=PJ-320A) |
+| M2 screws | [Amazon UK search "M2 self tapping screws"](https://www.amazon.co.uk/s?k=M2+self+tapping+screws) |
+| PLA filament | [Amazon UK search "PLA 1.75mm 1kg"](https://www.amazon.co.uk/s?k=PLA+1.75mm+1kg) |
+| NiMH AA cells (optional) | [Amazon UK search "NiMH AA low self discharge"](https://www.amazon.co.uk/s?k=NiMH+AA+low+self+discharge) |
+| Padded bags | [Amazon UK search "padded envelopes small"](https://www.amazon.co.uk/s?k=padded+envelopes+small) |
+
+Tip: put all the LCSC parts in **one order** and ship them with the JLCPCB boards
+(they are the same group), so the postage is shared.
+
 Other savings:
 
 - **No screen window.** Design the bezel so the screen's own glass sits flush behind an
