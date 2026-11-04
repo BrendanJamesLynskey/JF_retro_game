@@ -50,6 +50,12 @@ flowchart LR
 | 10 | [Build plan](docs/10_build_plan.md) | Stages from "playing on the desk" to "finished handheld" |
 | 11 | [Selling it: the cost-down version](docs/11_selling_on_a_budget.md) | About £12 of parts per console: AA cells, a bare screen, a carrier PCB; price, profit and the rules to check |
 
+## Start-up screen
+
+The console's start-up animation ("powered by Raspberry Pi", then NEXUS) has its own repo,
+[JF_NEXUS_startup](https://github.com/BrendanJamesLynskey/JF_NEXUS_startup), with MicroPython code for the
+Pico and a [browser preview](https://brendanjameslynskey.github.io/JF_NEXUS_startup/).
+
 ## Status
 
 Design notes only. Nothing has been bought or built yet.
