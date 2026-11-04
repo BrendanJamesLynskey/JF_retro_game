@@ -68,4 +68,4 @@ still a working toy.
 - Whether to make a custom PCB (KiCad) once the hand-wired version has proved the
   design. That would give a thinner case and cleaner assembly, at about £20 for
   five boards.
-- A name for the console.
+- A name for the console: chosen, **HORIZON** (check the trade mark before selling).

@@ -52,9 +52,9 @@ flowchart LR
 
 ## Start-up screen
 
-The console's start-up animation ("powered by Raspberry Pi", then NEXUS) has its own repo,
+The console is called **HORIZON**. Its start-up animation ("powered by Raspberry Pi", then a sunrise that lights up HORIZON) has its own repo,
 [JF_NEXUS_startup](https://github.com/BrendanJamesLynskey/JF_NEXUS_startup), with MicroPython code for the
-Pico and a [browser preview](https://brendanjameslynskey.github.io/JF_NEXUS_startup/).
+Pico, the script that renders it, and a [video of it](https://brendanjameslynskey.github.io/JF_NEXUS_startup/).
 
 ## Status
 
